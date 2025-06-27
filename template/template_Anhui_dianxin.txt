@@ -74,3 +74,27 @@ http://ipipip/rtp/238.1.79.11:4200
 http://ipipip/rtp/238.1.78.146:7040
 #EXTINF:-1 tvg-id="1" tvg-name="屯溪融媒" tvg-logo="https://live.fanmingming.com/tv/屯溪融媒.png" group-title="卫视高清",屯溪融媒
 http://ipipip/rtp/238.1.79.45:4472
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视高清",兵器科技
+http://ipipip/rtp/238.1.79.56:4584
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视高清",第一剧场
+http://ipipip/rtp/238.1.79.63:4640
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视高清",风云剧场
+http://ipipip/rtp/238.1.79.62:4632
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视高清",风云音乐
+http://ipipip/rtp/238.1.79.64:4648
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视高清",风云足球
+http://ipipip/rtp/238.1.79.57:4592
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视高清",高尔夫网球
+http://ipipip/rtp/238.1.79.58:4600
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视高清",怀旧剧场
+http://ipipip/rtp/238.1.79.61:4624
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视高清",女性时尚
+http://ipipip/rtp/238.1.79.55:4576
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视高清",世界地理
+http://ipipip/rtp/238.1.79.60:4616
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png" group-title="央视高清",央视文化精品
+http://ipipip/rtp/238.1.79.54:4568
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视高清",央视台球
+http://ipipip/rtp/238.1.79.59:4608
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视高清",电视指南
+http://ipipip/rtp/238.1.79.53:4560
