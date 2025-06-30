@@ -98,3 +98,9 @@ http://ipipip/rtp/238.1.79.54:4568
 http://ipipip/rtp/238.1.79.59:4608
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视高清",电视指南
 http://ipipip/rtp/238.1.79.53:4560
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="卫视高清",CHC家庭影院
+http://ipipip/rtp/238.1.79.22:4288
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="卫视高清",CHC高清电影
+http://ipipip/rtp/238.1.79.17:4248
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="卫视高清",CHC动作电影
+http://ipipip/rtp/238.1.79.18:4256
